@@ -5,6 +5,6 @@ a couple days ago i saw [this](https://github.com/felixrieseberg/windows95) proj
 
 ## Credits
 
-[https://copy.sh] for the entire windows 95 part
-[https://github.com/felixrieseberg/windows95] for the idea
+[https://copy.sh] for the entire windows 95 part <br>
+[https://github.com/felixrieseberg/windows95] for the idea <br>
 [https://github.com/nativefier/nativefier] for the easy to use electron wrapper
