@@ -1,5 +1,6 @@
-## Windows-95-Arm64
-# inspired by https://github.com/felixrieseberg/windows95 but for arm linux 
+### Windows-95-Arm64
+## inspired by https://github.com/felixrieseberg/windows95 but for arm linux 
+# EXECUTABLE NOT INCLUDED IN SOURCE CODE
 
 a couple days ago i saw [this](https://github.com/felixrieseberg/windows95) project, and i thought it was very interesting so i tried it out on my mac and it was very nice. but i mainly use linux (on an arm cpu) and i tried it out but realized it only has support for 64bit, so using [Nativefier](https://github.com/nativefier/nativefier) and [v86](https://copy.sh/v86/) i got something very similar that worked on my device and i decided to share it
 
